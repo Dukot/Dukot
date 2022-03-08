@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dukot 
+## Bem-vindo(a) ao perfil do Benardo Grabowski Costa
 
 <div>
   <a href="https://github.com/dukot">
